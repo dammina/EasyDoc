@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.eclipse.swt.events.MouseWheelListener"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.custom.ScrolledComposite"/>
+<fullyQualifiedTypeName name="java.awt.Point"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.graphics.Point"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.graphics.Rectangle"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.Canvas"/>
+<fullyQualifiedTypeName name="org.eclipse.core.resources.IProject"/>
+<fullyQualifiedTypeName name="java.lang.ClassCastException"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="org.omg.CORBA._PolicyStub"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.Composite"/>
+<fullyQualifiedTypeName name="org.eclipse.recommenders.extdoclogin.views.ListFilesUtil"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.SWT"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.Label"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.graphics.Image"/>
+<fullyQualifiedTypeName name="org.eclipse.swtbot.swt.finder.SWTBot"/>
+<fullyQualifiedTypeName name="org.eclipse.swtbot.swt.finder.widgets.SWTBotMenu"/>
+<fullyQualifiedTypeName name="org.eclipse.swtbot.swt.finder.utils.internal.Assert"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="org.junit.AfterClass"/>
+<fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+<fullyQualifiedTypeName name="org.eclipse.recommenders.extdoclogin.views.CodeMine"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/home/dammina/plugin_v_final/.metadata/.plugins/org.eclipse.jdt.core

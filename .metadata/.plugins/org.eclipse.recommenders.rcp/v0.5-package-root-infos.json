@@ -1,0 +1,571 @@
+[
+  {
+    "symbolicName": "org.eclipse.mylyn.tasks.core",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130612-0100"
+    },
+    "jarFileFingerprint": "7062f60b3094be67eef14899aba2dd0b886785ab",
+    "jarFileModificationDate": "2013-06-14T08:32:17+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.mylyn.tasks.core_3.9.0.v20130612-0100.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.resources",
+    "version": {
+      "major": 3,
+      "minor": 8,
+      "micro": 100,
+      "qualifier": "v20130521-2026"
+    },
+    "jarFileFingerprint": "79233d66362db1edbe512d2810178c6143cd19ee",
+    "jarFileModificationDate": "2013-06-14T08:32:01+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.core.resources_3.8.100.v20130521-2026.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jdt.compiler.tool",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 200,
+      "qualifier": "v20130530-1010"
+    },
+    "jarFileFingerprint": "d6135ecec8963450a0dcb0dd2e8da0ff46d4f588",
+    "jarFileModificationDate": "2013-06-14T08:32:08+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.jdt.compiler.tool_1.0.200.v20130530-1010.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "runtime_registry_compatibility",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ac04672bb5fe775a57510ac581b6645210c11c32",
+    "jarFileModificationDate": "2013-05-15T06:52:40+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.core.runtime.compatibility.registry_3.5.200.v20130514-1256/runtime_registry_compatibility.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.jobs",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 300,
+      "qualifier": "v20130429-1813"
+    },
+    "jarFileFingerprint": "69a54a3766004fc09222e2be6da544dde50ba50f",
+    "jarFileModificationDate": "2013-06-14T08:32:00+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.core.jobs_3.5.300.v20130429-1813.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.common",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 200,
+      "qualifier": "v20130402-1505"
+    },
+    "jarFileFingerprint": "f930417b1602dafb370d7b9ed7871c87e0b355b1",
+    "jarFileModificationDate": "2013-06-14T08:32:05+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.recommenders.extdoclogin",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "qualifier"
+    },
+    "jarFileModificationDate": "2013-10-08T00:53:55+05:30",
+    "location": "/home/dammina/plugin_v_final/org.eclipse.recommenders.extdoclogin/src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.recommenders.extdoclogin.test",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "qualifier"
+    },
+    "jarFileModificationDate": "2013-10-14T03:38:10+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.swtbot.eclipse.junit3.headless_2.0.4.20110304_0338-e5aff47-dev-e35",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b8019efc239b42496868b49f29220f44532233a8",
+    "jarFileModificationDate": "2013-03-07T02:10:40+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.core.commands",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 100,
+      "qualifier": "v20130515-1857"
+    },
+    "jarFileFingerprint": "3332bf431cb1eca882df8a46fcd97b688aeb8afb",
+    "jarFileModificationDate": "2013-06-14T08:32:00+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.core.commands_3.6.100.v20130515-1857.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f317c1b846ab01a1c00d849881778a47a7e728bf",
+    "jarFileModificationDate": "2012-09-20T14:51:42+05:30",
+    "location": "/usr/share/java/java-atk-wrapper.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.ui.views",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 100,
+      "qualifier": "v20130326-1250"
+    },
+    "jarFileFingerprint": "3d437578087a22ab571cd2c7a5886d5cd1d67d22",
+    "jarFileModificationDate": "2013-06-14T08:32:34+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.ui.views_3.6.100.v20130326-1250.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.app",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 100,
+      "qualifier": "v20130327-1442"
+    },
+    "jarFileFingerprint": "ae6b3f37e295b65ecbbddf356d06262a07f281cf",
+    "jarFileModificationDate": "2013-06-14T08:32:05+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.equinox.app_1.3.100.v20130327-1442.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "738dc2e5f75474d466dc08dac6584e4c3ca9aa54",
+    "jarFileModificationDate": "2013-03-07T02:10:40+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.hamcrest.core",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": "v201303031735"
+    },
+    "jarFileFingerprint": "5ed9fe32ab1d2b18bec7cac0a044090100f327ba",
+    "jarFileModificationDate": "2013-06-14T08:32:41+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fab5484b0d7bdc52b7fdea2d31db669cc3c96420",
+    "jarFileModificationDate": "2013-03-07T02:04:37+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.recommenders.extdoclogin.test",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "qualifier"
+    },
+    "jarFileModificationDate": "2013-08-30T15:21:59+05:30",
+    "location": "/home/dammina/plugin_v_final/org.eclipse.recommenders.extdoclogin.test/src",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e243645fd07a4930842c43d6f7e96ef089d0a59c",
+    "jarFileModificationDate": "2013-03-07T02:04:11+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.jface",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130521-1714"
+    },
+    "jarFileFingerprint": "5c6ec6c72c96c6f4275329a1167c8d7380bbc5d2",
+    "jarFileModificationDate": "2013-06-14T08:32:12+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.jface_3.9.0.v20130521-1714.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.ui.workbench",
+    "version": {
+      "major": 3,
+      "minor": 105,
+      "micro": 0,
+      "qualifier": "v20130529-1406"
+    },
+    "jarFileFingerprint": "e4c684be2b20c3493aec823347e00bebf7bc5bb5",
+    "jarFileModificationDate": "2013-06-14T08:32:35+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.ui.workbench_3.105.0.v20130529-1406.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d4a4fd3bac1e86d915396ac11b7eeef160bc497d",
+    "jarFileModificationDate": "2013-03-07T02:04:30+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.e4.ui.workbench3",
+    "version": {
+      "major": 0,
+      "minor": 12,
+      "micro": 0,
+      "qualifier": "v20130515-1857"
+    },
+    "jarFileFingerprint": "86f3ec29981200ea5043d306fccc79872bad5eac",
+    "jarFileModificationDate": "2013-06-14T08:32:03+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.e4.ui.workbench3_0.12.0.v20130515-1857.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.contenttype",
+    "version": {
+      "major": 3,
+      "minor": 4,
+      "micro": 200,
+      "qualifier": "v20130326-1255"
+    },
+    "jarFileFingerprint": "0335ae99862a28b05778fbd10fbf65e000ae3cfe",
+    "jarFileModificationDate": "2013-06-14T08:32:00+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.core.contenttype_3.4.200.v20130326-1255.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.recommenders.extdoc",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 4,
+      "qualifier": "v20130612-1006-b77"
+    },
+    "jarFileFingerprint": "4e51580635522e534936b6252617c29a7bf544da",
+    "jarFileModificationDate": "2013-06-14T08:32:29+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.recommenders.extdoc_1.0.4.v20130612-1006-b77.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b25588b59815fe5fab86ca8391fa4031abcd3fc2",
+    "jarFileModificationDate": "2013-03-07T02:05:58+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.preferences",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 100,
+      "qualifier": "v20130422-1538"
+    },
+    "jarFileFingerprint": "75b77bdb8eb93ed5c6d36267c46bf4ff50476747",
+    "jarFileModificationDate": "2013-06-14T08:32:07+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.equinox.preferences_3.5.100.v20130422-1538.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.ui",
+    "version": {
+      "major": 3,
+      "minor": 105,
+      "micro": 0,
+      "qualifier": "v20130522-1122"
+    },
+    "jarFileFingerprint": "fe7961858296aa3335c94c4db369cd9152dbc797",
+    "jarFileModificationDate": "2013-06-14T08:32:32+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.ui_3.105.0.v20130522-1122.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.osgi",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130529-1710"
+    },
+    "jarFileFingerprint": "db671f837d6fd97ddb1cd293d57875d92e07d64a",
+    "jarFileModificationDate": "2013-06-14T08:32:18+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.osgi_3.9.0.v20130529-1710.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "151d42303e4d472f025baaf158cae479f73eb8b2",
+    "jarFileModificationDate": "2013-03-07T02:04:39+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7fd40d1eac7ec94919d1a220e380bceecfd74577",
+    "jarFileModificationDate": "2013-03-07T02:06:29+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.core.runtime",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130326-1255"
+    },
+    "jarFileFingerprint": "93ddd8e0b4e694dad4ed4bf305809fb7ff567294",
+    "jarFileModificationDate": "2013-06-14T08:32:01+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.core.runtime_3.9.0.v20130326-1255.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3ff34e8da86cc50c275693d32ac68d0a355d48fb",
+    "jarFileModificationDate": "2013-03-07T01:54:42+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/pulse-java.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.swt",
+    "version": {
+      "major": 3,
+      "minor": 102,
+      "micro": 0,
+      "qualifier": "v20130605-1539"
+    },
+    "jarFileFingerprint": "70a06ae5998c6c42fc29653f3e7bc1aa7fe40f92",
+    "jarFileModificationDate": "2013-06-14T08:32:30+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.swt_3.102.0.v20130605-1539.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.ui.ide",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": "v20130517-0139"
+    },
+    "jarFileFingerprint": "3ab2625d99d3c937c06f715b472c52d6d1da4aea",
+    "jarFileModificationDate": "2013-06-14T08:32:33+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.ui.ide_3.9.0.v20130517-0139.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.swtbot.swt.finder",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": "201307101628"
+    },
+    "jarFileFingerprint": "42a7015d5574fec2bbd67a72b24169003798a1a5",
+    "jarFileModificationDate": "2013-10-14T03:54:39+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.swtbot.swt.finder_2.1.1.201307101628.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c7d02028bbe55302d158726829fdbfff15f7e3e3",
+    "jarFileModificationDate": "2013-03-07T02:00:31+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "afd68cdc3d358cfe28ecf94c9bdc4293ef3ee3f1",
+    "jarFileModificationDate": "2013-03-07T02:10:40+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.jdt.core",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 1,
+      "qualifier": "v20130905-0837"
+    },
+    "jarFileFingerprint": "5b7db63348bf17983aaf0cc1f20c712a23103b73",
+    "jarFileModificationDate": "2013-10-07T18:53:42+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.jdt.core_3.9.1.v20130905-0837.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4e031bb61df09069aeb2bffb4019e7a5034a4ee0",
+    "jarFileModificationDate": "2013-05-17T21:35:12+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jdt.compiler.apt",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 600,
+      "qualifier": "v20130530-1010"
+    },
+    "jarFileFingerprint": "28fb1eae76fd39078067258e0ccbaf3330f14a92",
+    "jarFileModificationDate": "2013-06-14T08:32:08+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.jdt.compiler.apt_1.0.600.v20130530-1010.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.recommenders.extdoc.rcp",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 4,
+      "qualifier": "v20130612-1006-b77"
+    },
+    "jarFileFingerprint": "ee94e3c55b336489345a0f32591912d3d8f94db9",
+    "jarFileModificationDate": "2013-06-14T08:32:29+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.recommenders.extdoc.rcp_1.0.4.v20130612-1006-b77.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.swt.gtk.linux.x86_64",
+    "version": {
+      "major": 3,
+      "minor": 102,
+      "micro": 0,
+      "qualifier": "v20130605-1544"
+    },
+    "jarFileFingerprint": "877d715bb1a82aa864f20e2fe21e535362cd98f5",
+    "jarFileModificationDate": "2013-06-14T08:32:30+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_64_3.102.0.v20130605-1544.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.registry",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 300,
+      "qualifier": "v20130327-1442"
+    },
+    "jarFileFingerprint": "328083486e75f87c6582660bba6117868679a1c1",
+    "jarFileModificationDate": "2013-06-14T08:32:07+05:30",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.equinox.registry_3.5.300.v20130327-1442.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bb0d9dba39f7181407d3fce8ad21b47ce5801623",
+    "jarFileModificationDate": "2013-03-07T02:04:23+05:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  }
+]

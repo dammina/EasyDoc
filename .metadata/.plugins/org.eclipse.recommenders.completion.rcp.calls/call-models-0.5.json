@@ -1,0 +1,35 @@
+{
+  "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar",
+    "status": "RESOLVED",
+    "error": "No call model found for \u0027/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar\u0027. Neither fingerprint \u0027c7d02028bbe55302d158726829fdbfff15f7e3e3\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_64_3.102.0.v20130605-1544.jar": {
+    "coordinate": "org.eclipse.swt:org.eclipse.swt.gtk.linux.x86_64:zip:call:3.0.0",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_64_3.102.0.v20130605-1544.jar",
+    "status": "RESOLVED",
+    "error": "No call model found for \u0027/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_64_3.102.0.v20130605-1544.jar\u0027. Neither fingerprint \u0027877d715bb1a82aa864f20e2fe21e535362cd98f5\u0027 nor symbolic name \u0027org.eclipse.swt.gtk.linux.x86_64\u0027 are known."
+  },
+  "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.ui.workbench_3.105.0.v20130529-1406.jar": {
+    "coordinate": "org.eclipse.ui:org.eclipse.ui.workbench:zip:call:3.0.0",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.ui.workbench_3.105.0.v20130529-1406.jar",
+    "status": "RESOLVED",
+    "error": "No call model found for \u0027/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.ui.workbench_3.105.0.v20130529-1406.jar\u0027. Neither fingerprint \u0027e4c684be2b20c3493aec823347e00bebf7bc5bb5\u0027 nor symbolic name \u0027org.eclipse.ui.workbench\u0027 are known."
+  },
+  "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.jface_3.9.0.v20130521-1714.jar": {
+    "coordinate": "org.eclipse.jface:org.eclipse.jface:zip:call:3.0.0",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.jface_3.9.0.v20130521-1714.jar",
+    "status": "RESOLVED"
+  },
+  "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar": {
+    "coordinate": "org.eclipse.equinox:org.eclipse.equinox.common:zip:call:3.0.0",
+    "location": "/home/dammina/eclipse_rcp_dev/eclipse/plugins/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar",
+    "status": "RESOLVED"
+  },
+  "/home/dammina/plugin_v_final/org.eclipse.recommenders.extdoclogin/src": {
+    "location": "/home/dammina/plugin_v_final/org.eclipse.recommenders.extdoclogin/src",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/home/dammina/plugin_v_final/org.eclipse.recommenders.extdoclogin/src\u0027. Neither fingerprint \u0027null\u0027 nor symbolic name \u0027org.eclipse.recommenders.extdoclogin\u0027 are known."
+  }
+}
